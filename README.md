@@ -1,4 +1,4 @@
-![IMG_9107](https://github.com/user-attachments/assets/940464d4-0dd2-4518-bdf4-118621c25cf2)
+!<img width="834" alt="IMG_2187" src="https://github.com/user-attachments/assets/c79a1d55-1cf6-49d6-9595-7fa53429acb4">
 # 🐈 Paws-and-Potions!
 Solo Mobile App Project 
 
