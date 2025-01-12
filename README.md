@@ -1,4 +1,3 @@
-!<img width="834" alt="IMG_2187" src="https://github.com/user-attachments/assets/c79a1d55-1cf6-49d6-9595-7fa53429acb4">
 # 🐈 Paws-and-Potions!
 Solo Mobile App Project 
 
@@ -8,4 +7,21 @@ Solo Mobile App Project
 
 - 🥥 How to run it: open the terminal, "npm start", scan the barcode in Expo-go, play!
   
-- 🧸 If you cannot run it, watch the video of the play-through. 
+- 🧸 If you cannot run it, watch the video of the play-through.
+
+# 🐁 Screenshots
+<div>
+<img style = "width: 20vh; margin: 5vh;" src = "Images/home.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/rules.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/power.png">
+</div>
+<div>
+<img style = "width: 20vh; margin: 5vh;" src = "Images/victory.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/final.png">
+</div>
+<div>
+<img style = "width: 20vh; margin: 5vh;" src = "Images/rat.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/bunny.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/raven.png">
+</div>
+ <br>  
