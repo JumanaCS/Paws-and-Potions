@@ -16,12 +16,12 @@ Solo Mobile App Project
 <img style = "width: 20vh; margin: 5vh;" src = "Images/power.png">
 </div>
 <div>
-<img style = "width: 20vh; margin: 5vh;" src = "Images/victory.png">
-<img style = "width: 20vh; margin: 5vh;" src = "Images/final.png">
-</div>
-<div>
 <img style = "width: 20vh; margin: 5vh;" src = "Images/rat.png">
 <img style = "width: 20vh; margin: 5vh;" src = "Images/bunny.png">
 <img style = "width: 20vh; margin: 5vh;" src = "Images/raven.png">
+</div>
+<div>
+<img style = "width: 20vh; margin: 5vh;" src = "Images/victory.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/final.png">
 </div>
  <br>  
