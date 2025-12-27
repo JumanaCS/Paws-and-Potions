@@ -7,7 +7,7 @@ Solo Mobile App Project
 
 - How to run it: open the terminal, "npm start", scan the barcode in Expo-go, play!
   
-- If you cannot run it, watch the video of the play-through.
+- If you cannot run it, watch the video of the play-through. 
 
 # 🐁 Screenshots
 <div>
